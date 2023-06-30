@@ -18,6 +18,7 @@
             rustc
             clippy
             rust-analyzer
+            rustfmt
 
             elixir_1_15
             nil
